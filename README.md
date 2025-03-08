@@ -2,9 +2,11 @@
 
 ## Contents
 
-### Fundamentals
+### Learn
 
 - [learn](learn/README.md): transformers
+- books
+  - [NLP with transformers](books/nlp_with_transformers/README.md)
 
 ### BERT
 
@@ -25,6 +27,8 @@
 - Feb 2018: [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) - ELMo
 - Jun 2018: [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) - GPT
 - Oct 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+- Oct 2018: [CARER: Contextualized Affect Representations for Emotion Recognition](https://aclanthology.org/D18-1404/) - [dataset](https://github.com/dair-ai/emotion_dataset)
+- Oct 2019: [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)
 
 ### Blog
 
@@ -38,6 +42,7 @@
 - [Hugging Face](https://github.com/huggingface)
   - [transformers](https://github.com/huggingface/transformers)
   - [notebooks](https://github.com/huggingface/notebooks)
+  - [datasets](https://github.com/huggingface/datasets)
 
 ### HuggingFace
 
