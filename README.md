@@ -4,6 +4,8 @@
 
 ### Fundamentals
 
+- [learn](learn/README.md): transformers
+
 ### BERT
 
 ### Optimizations
@@ -35,6 +37,7 @@
   - [BERT](https://github.com/google-research/bert)
 - [Hugging Face](https://github.com/huggingface)
   - [transformers](https://github.com/huggingface/transformers)
+  - [notebooks](https://github.com/huggingface/notebooks)
 
 ### HuggingFace
 
