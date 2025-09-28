@@ -18,6 +18,7 @@
 
 ### Papaer
 
+- Jan 2013: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 - Sep 2014: [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - Attention
 - Sep 2014: [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
 - Jun 2015: [Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books](https://arxiv.org/abs/1506.06724) - BookCorpus
@@ -34,6 +35,7 @@
 
 - May 2015: [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - Jun 2018: [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- Dec 2022: [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 
 ### GitHub
 
@@ -53,3 +55,11 @@
 - Jan 2021: Getting Started with Google BERT - [packt](https://www.packtpub.com/en-us/product/getting-started-with-google-bert-9781838821593), [github](https://github.com/PacktPublishing/Getting-Started-with-Google-BERT)
 - Jul 2022: Natural Language Processing with Transformers - [home](https://transformersbook.com/), [github](https://github.com/nlp-with-transformers/notebooks), [oreilly](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 
+### YouTube
+
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown), [Korean](https://www.youtube.com/@3Blue1BrownKR)
+  - playlist: [Neural networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [vcubingx](https://www.youtube.com/@vcubingx)
+  - [What does it mean for computers to understand language?](https://www.youtube.com/watch?v=1il-s4mgNdI)
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+- [Welch Labs](https://www.youtube.com/@WelchLabsVideo), [Korean](https://www.youtube.com/@WelchLabsKorean)
